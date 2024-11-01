@@ -1,0 +1,9 @@
+#page-warning {
+    width:100%;
+}
+
+#page-warning-message {
+    background-color : var(--color-background-warning);
+    color : var(--color-text-warning);
+    margin: 0;
+}

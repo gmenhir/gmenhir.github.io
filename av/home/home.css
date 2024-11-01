@@ -1,0 +1,23 @@
+.page-presentation-image {
+    width: 220px;
+    height: 220px;
+}
+
+.page-presentation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.page-presentation-texte {
+    border: 3px solid var(--color-text-main);
+    border-radius: 25px;
+    margin: 20px auto;
+    flex-grow: 100;
+}
+
+.page-presentation-contenu {
+    margin: 0 20px;
+    text-align: justify;
+    font-size: 15px;
+}
